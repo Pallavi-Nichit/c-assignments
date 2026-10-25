@@ -10,8 +10,6 @@ printf("Enter third no.");
 scanf("%d", & thirdno);
 int avg=(firstno+secondno+thirdno)/3;
 printf("the average of the three numbers is %d", avg);
-
-
-
+return 0;
 
 }
